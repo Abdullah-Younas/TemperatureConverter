@@ -1,6 +1,6 @@
 body{
     font-family: 'Courier New', Courier, monospace;
-    background-color: skyblue;
+    background-color: rgb(18, 13, 43);
 }
 #main{
     background-color: rgb(180, 180, 235);
@@ -9,6 +9,7 @@ body{
     max-width: 400px;
     margin: auto;
     padding: 50px;
+    box-shadow: 10px 10px 25px rgb(78, 53, 247);
 }
 #tempinput{
     background-color: steelblue;
